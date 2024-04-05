@@ -15,12 +15,12 @@ If you don't have Node.js and npm installed, you can download them from the offi
 
 1. Clone the repository to your local machine.
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/coderwithsense/mint-fungible-spl)
 ```
 
 2. Navigate into the cloned repository.
 ```bash
-cd <repository-name>
+cd [<repository-name>](https://github.com/coderwithsense/mint-fungible-spl)
 ```
 
 3. Install the project dependencies using npm.
